@@ -1,0 +1,1518 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AssetManager
+    - CameraControl
+    - CameraRotateDropdown
+    - CameraTranslateDropdown
+    - DrawGrid
+    - GILES.pb_MetaDataComponent
+    - HierarchyManager
+    - LevelManager
+    - LoadingBar
+    - RightClickDropDown
+    - RotateDropdown
+    - ScaleDropdown
+    - ToggleMenuBar
+    - ToolTip
+    - TranslateDropdown
+    HiddenMonk.U3DRTG.dll:
+    - RuntimeGizmos.TransformGizmo
+    RuntimeInspector.Runtime.dll:
+    - RuntimeInspectorNamespace.ArrayField
+    - RuntimeInspectorNamespace.BoolField
+    - RuntimeInspectorNamespace.BoundInputField
+    - RuntimeInspectorNamespace.BoundSlider
+    - RuntimeInspectorNamespace.BoundsField
+    - RuntimeInspectorNamespace.ColorField
+    - RuntimeInspectorNamespace.ColorPicker
+    - RuntimeInspectorNamespace.ColorPickerAlphaSlider
+    - RuntimeInspectorNamespace.ColorWheelControl
+    - RuntimeInspectorNamespace.DraggedReferenceItem
+    - RuntimeInspectorNamespace.EnumField
+    - RuntimeInspectorNamespace.ExposedMethodField
+    - RuntimeInspectorNamespace.GameObjectField
+    - RuntimeInspectorNamespace.HierarchyDragDropListener
+    - RuntimeInspectorNamespace.HierarchyField
+    - RuntimeInspectorNamespace.NonDrawingGraphic
+    - RuntimeInspectorNamespace.NonDrawingMaskableGraphic
+    - RuntimeInspectorNamespace.NumberField
+    - RuntimeInspectorNamespace.NumberRangeField
+    - RuntimeInspectorNamespace.ObjectField
+    - RuntimeInspectorNamespace.ObjectReferenceField
+    - RuntimeInspectorNamespace.ObjectReferencePicker
+    - RuntimeInspectorNamespace.ObjectReferencePickerItem
+    - RuntimeInspectorNamespace.PointerEventListener
+    - RuntimeInspectorNamespace.RectField
+    - RuntimeInspectorNamespace.RecycledListView
+    - RuntimeInspectorNamespace.RuntimeHierarchy
+    - RuntimeInspectorNamespace.RuntimeInspector
+    - RuntimeInspectorNamespace.RuntimeInspectorSettings
+    - RuntimeInspectorNamespace.StringField
+    - RuntimeInspectorNamespace.TextureReferenceField
+    - RuntimeInspectorNamespace.Tooltip
+    - RuntimeInspectorNamespace.TransformField
+    - RuntimeInspectorNamespace.UISkin
+    - RuntimeInspectorNamespace.Vector2Field
+    - RuntimeInspectorNamespace.Vector3Field
+    - RuntimeInspectorNamespace.Vector4Field
+    - RuntimeInspectorNamespace.WindowDragHandler
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.Timeline.Editor.dll:
+    - UnityEditor.Timeline.SequenceHierarchy
+    - UnityEditor.Timeline.TimelineWindow
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.Dropdown
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.ToggleGroup
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/Scenes/SampleScene-Calvin.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11272}
+    - Class: 114
+      Script: {instanceID: 11274}
+    - Class: 114
+      Script: {instanceID: 11276}
+    - Class: 114
+      Script: {instanceID: 11278}
+    - Class: 114
+      Script: {instanceID: 11280}
+    - Class: 114
+      Script: {instanceID: 11282}
+    - Class: 114
+      Script: {instanceID: 11284}
+    - Class: 114
+      Script: {instanceID: 11286}
+    - Class: 114
+      Script: {instanceID: 11306}
+    - Class: 114
+      Script: {instanceID: 11340}
+    - Class: 114
+      Script: {instanceID: 11392}
+    - Class: 114
+      Script: {instanceID: 11442}
+    - Class: 114
+      Script: {instanceID: 11476}
+    - Class: 114
+      Script: {instanceID: 11486}
+    - Class: 114
+      Script: {instanceID: 11498}
+    - Class: 114
+      Script: {instanceID: 11560}
+    - Class: 114
+      Script: {instanceID: 11578}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11648}
+    - Class: 114
+      Script: {instanceID: 11728}
+    - Class: 114
+      Script: {instanceID: 11732}
+    - Class: 114
+      Script: {instanceID: 11750}
+    - Class: 114
+      Script: {instanceID: 11764}
+    - Class: 114
+      Script: {instanceID: 11796}
+    - Class: 114
+      Script: {instanceID: 11862}
+    - Class: 114
+      Script: {instanceID: 11914}
+    - Class: 114
+      Script: {instanceID: 11922}
+    - Class: 114
+      Script: {instanceID: 12000}
+    - Class: 114
+      Script: {instanceID: 12020}
+    - Class: 114
+      Script: {instanceID: 12026}
+    - Class: 114
+      Script: {instanceID: 12052}
+    - Class: 114
+      Script: {instanceID: 12066}
+    - Class: 114
+      Script: {instanceID: 12078}
+    - Class: 114
+      Script: {instanceID: 12104}
+    - Class: 114
+      Script: {instanceID: 12148}
+    - Class: 114
+      Script: {instanceID: 12178}
+    - Class: 114
+      Script: {instanceID: 12244}
+    - Class: 114
+      Script: {instanceID: 12266}
+    - Class: 114
+      Script: {instanceID: 12294}
+    - Class: 114
+      Script: {instanceID: 12296}
+    - Class: 114
+      Script: {instanceID: 12326}
+    - Class: 114
+      Script: {instanceID: 12330}
+    - Class: 114
+      Script: {instanceID: 12346}
+    - Class: 114
+      Script: {instanceID: 12406}
+    - Class: 114
+      Script: {instanceID: 12424}
+    - Class: 114
+      Script: {instanceID: 12462}
+    - Class: 114
+      Script: {instanceID: 12514}
+    - Class: 114
+      Script: {instanceID: 12572}
+    - Class: 114
+      Script: {instanceID: 12602}
+    - Class: 114
+      Script: {instanceID: 12604}
+    - Class: 114
+      Script: {instanceID: 12662}
+    - Class: 114
+      Script: {instanceID: 12702}
+    - Class: 114
+      Script: {instanceID: 12794}
+    - Class: 114
+      Script: {instanceID: 12818}
+    - Class: 114
+      Script: {instanceID: 12858}
+    - Class: 114
+      Script: {instanceID: 12862}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 12886}
+    - Class: 114
+      Script: {instanceID: 12914}
+    - Class: 114
+      Script: {instanceID: 12920}
+    - Class: 114
+      Script: {instanceID: 13014}
+    - Class: 114
+      Script: {instanceID: 13150}
+    - Class: 114
+      Script: {instanceID: 13196}
+    - Class: 114
+      Script: {instanceID: 13292}
+    - Class: 114
+      Script: {instanceID: 13334}
+    - Class: 114
+      Script: {instanceID: 13342}
+    - Class: 114
+      Script: {instanceID: 13362}
+    - Class: 114
+      Script: {instanceID: 13432}
+    - Class: 114
+      Script: {instanceID: 13442}
+    - Class: 114
+      Script: {instanceID: 13526}
+    - Class: 114
+      Script: {instanceID: 13538}
+    - Class: 114
+      Script: {instanceID: 13552}
+    - Class: 114
+      Script: {instanceID: 13568}
+    - Class: 114
+      Script: {instanceID: 13584}
+    - Class: 114
+      Script: {instanceID: 13602}
+    - Class: 114
+      Script: {instanceID: 13622}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 620e4e1a9bfd29cf904a390378db8350
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_QuaternionInspector
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 487bdbeefd6a732dbadb960829d5d5d8
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: Vector3Field
+  - hash:
+      serializedVersion: 2
+      Hash: e4f94219e896b81fdcdb05e2618fbbe4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ObjectInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 32ada221ffbb2fa20934e72dd0f4cc8a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: FileBrowserTest
+  - hash:
+      serializedVersion: 2
+      Hash: f3c5d62e237a3bc524c6c043abde8157
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: BoundSlider
+  - hash:
+      serializedVersion: 2
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_DraggableInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Click
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 59e6e29ce9543855ee65528c084f463e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TranslateDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ComponentEditor
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b9952889446f051bc9b1c62444e236be
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ObjectReferencePickerItem
+  - hash:
+      serializedVersion: 2
+      Hash: 4f8dc41bead6339345d2e7f26b438c49
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ColorPickerAlphaSlider
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4c07a099f050f5da2d88fcd7980e8a95
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToolTip
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_DuplicateButton
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: BoundInputField
+  - hash:
+      serializedVersion: 2
+      Hash: d99ed68a68a5884708fa655bd1b6f6b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_FloatInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 72c9aca37c17c891fe9fcabe65b736b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToggleMenuBar
+  - hash:
+      serializedVersion: 2
+      Hash: e8538367231464a2d1bf06e1d44623c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_DraggablePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_DeleteButton
+  - hash:
+      serializedVersion: 2
+      Hash: 623a022fe8c01b89bf7730f496e5f59e
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ColorPicker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 8b92c5ee6d2414d6fe865e7679325ad4
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: GameObjectField
+  - hash:
+      serializedVersion: 2
+      Hash: 0e1daa0d6df1a182bb6c907ebef34657
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: NumberField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_AssetBundles
+  - hash:
+      serializedVersion: 2
+      Hash: 6240cb7a42b1a9b0ff47319a7aebb8f3
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RuntimeInspectorSettings
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_Scene
+  - hash:
+      serializedVersion: 2
+      Hash: 235a1e8275c5d1ab2a1c0f017d90e1b5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_PanelToggle
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_ScaleToolButton
+  - hash:
+      serializedVersion: 2
+      Hash: de891492de9113b504abfb1c48e49556
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: UISkin
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0ae4827dabdda317ccfe24d5f121af3d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_LoadSceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: 37d20f0a9a76d2a928d5f505b6dfa7b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ICollectionInspector
+  - hash:
+      serializedVersion: 2
+      Hash: cb04d522219bbf3edfc216bcd066d889
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_Gizmo_Camera
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 208617eae7b1feebcdd98899e3601581
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: HierarchyDragDropListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: Undo
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 0ebd6e9eb9a38938de9e98a321b9fc4b
+    assemblyName: HiddenMonk.U3DRTG.dll
+    namespaceName: RuntimeGizmos
+    className: TransformGizmoCustomGizmo
+  - hash:
+      serializedVersion: 2
+      Hash: ebd81efa3c2b028a35cd275104169852
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: HierarchyField
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0e1daa0d6df1a182bb6c907ebef34657
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: StringField
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 4818c6304c13efed56e3fb5f145635b1
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RuntimeInspector
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 8ea724c18dc535bece9f3f501d8d42be
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ColorField
+  - hash:
+      serializedVersion: 2
+      Hash: 59e6e29ce9543855ee65528c084f463e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_PrefabBrowser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: PointerEventListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1cf15db4c2253e0d94987f2039792fd5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_Vector3Inspector
+  - hash:
+      serializedVersion: 2
+      Hash: 2122a86fbc0bb2bcaf1e335a78ab60ed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_WindowResizer
+  - hash:
+      serializedVersion: 2
+      Hash: 11c72f30a5f0fe4909d602bc2b864102
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_Inspector
+  - hash:
+      serializedVersion: 2
+      Hash: 86d1ee4207e082df77332e760fc0da0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_MaterialInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 4db9f8b2a97eb28dd77bb679010746e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RightClickDropDown
+  - hash:
+      serializedVersion: 2
+      Hash: 036c17f163d0785fdecd384631bcedfc
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: Tooltip
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_InspectorLabelLayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 88b94a418325fefb74515bb8113c18db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_FullInspectorButton
+  - hash:
+      serializedVersion: 2
+      Hash: 68bd6dd95204b9fbb7974f0f19879346
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_NewSceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: b535ace15c9ec09e27aeebc276d4c007
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_GUIStyle
+  - hash:
+      serializedVersion: 2
+      Hash: 54b27b0f4e3c48f84a91efb3bdb8adec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HierarchyManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5921f31a8ea96c407c07b753ccb6b419
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Example
+    className: pb_SceneLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_RedoButton
+  - hash:
+      serializedVersion: 2
+      Hash: d9f72468a83361c2e15ed68ac6fcc36b
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RecycledListView
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_Selection
+  - hash:
+      serializedVersion: 2
+      Hash: a003d82f7ed8c65bb856eff65f63c046
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_EnumInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 86733262c8a32898dd98d19b7e42175d
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ObjectReferencePicker
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 42bd7a58ecbbdfffb383cccee6f0b1e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_SaveDialogButton
+  - hash:
+      serializedVersion: 2
+      Hash: dc77e564f0aac274391e0d0f7704351d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ModalWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 2abaac76939db08cea2bea0b6662b487
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ObjectReferenceField
+  - hash:
+      serializedVersion: 2
+      Hash: 32a36885788e89e6528b1b81d5af867e
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ObjectField
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_ToolbarButton
+  - hash:
+      serializedVersion: 2
+      Hash: 74a4ac4d03f7a15901c609ecfe7bd196
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DrawGrid
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_PositionToolButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 8b363645bc9ea14cf2ab4da2eccbe98f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraTranslateDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: bffcadb9797d8be363f802c42841d9a7
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: NonDrawingGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: NonDrawingMaskableGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: d99ed68a68a5884708fa655bd1b6f6b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_StringInspector
+  - hash:
+      serializedVersion: 2
+      Hash: cf9629c79efd3deebc609c9132175e02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_SelectionHighlight
+  - hash:
+      serializedVersion: 2
+      Hash: f2a94f4e13df9037e8e6d374129ec964
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_MetaDataComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_MeshRendererEditor
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 0ae4827dabdda317ccfe24d5f121af3d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_SaveSceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: 8b363645bc9ea14cf2ab4da2eccbe98f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraRotateDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 96328e607ce968fc8a4aa7ce4c65447b
+    assemblyName: HiddenMonk.U3DRTG.dll
+    namespaceName: RuntimeGizmos
+    className: TransformGizmo
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_Window
+  - hash:
+      serializedVersion: 2
+      Hash: 3e9ca09707d4605f40455b6196a54013
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RectField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_RotateToolButton
+  - hash:
+      serializedVersion: 2
+      Hash: 6618556a9d1d4c8eccb8b30ed7a219bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_SelectionHandle
+  - hash:
+      serializedVersion: 2
+      Hash: fe689742a53c6a60835638607b5583ef
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: EnumField
+  - hash:
+      serializedVersion: 2
+      Hash: 40b5be6a227d3c73c6ddc964d2b2ceb0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_InputManager
+  - hash:
+      serializedVersion: 2
+      Hash: 86d1ee4207e082df77332e760fc0da0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_UnityObjectInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 9a0fc364fa02934723a49d4f12196f6b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_LayoutElementText
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 6d7e828fd353d49d0e71b2200ab134db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LevelManager
+  - hash:
+      serializedVersion: 2
+      Hash: 034a3fce69b45eee881ae1509efc6c6b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_Gizmo_Light
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f0786811516f7de8befd7a3e181e567a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a8d5a9cb7c8dd2f0b36ab482674c238b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_SceneCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a732883949a6d3640dc0fdd9d3c30545
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_PrefabBrowserItemButton
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 83839cd5b696173645a4241022dc7463
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: Vector4Field
+  - hash:
+      serializedVersion: 2
+      Hash: fe986d3996bc19ac4b02fc6dcaeb5574
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AssetManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8b92c5ee6d2414d6fe865e7679325ad4
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: TransformField
+  - hash:
+      serializedVersion: 2
+      Hash: d693b752a2502c1a7d92346778264824
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: Vector2Field
+  - hash:
+      serializedVersion: 2
+      Hash: 999262f5416db0221c079a41a817e3cd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_GUIStyleApplier
+  - hash:
+      serializedVersion: 2
+      Hash: 036c17f163d0785fdecd384631bcedfc
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: DraggedReferenceItem
+  - hash:
+      serializedVersion: 2
+      Hash: 620e4e1a9bfd29cf904a390378db8350
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_Vector4Inspector
+  - hash:
+      serializedVersion: 2
+      Hash: 03af7d837114a288b6070b14d25844a6
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: TextureReferenceField
+  - hash:
+      serializedVersion: 2
+      Hash: e74fe04d15001acf8e5907417ef5f444
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ColorInspector
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_UndoButton
+  - hash:
+      serializedVersion: 2
+      Hash: 2fd0b3b7b37b180c02101e3182e37048
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RuntimeHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 1d6d8c6959964ce62241a457912a3c6d
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: DraggedReferenceSourceCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_CameraEditor
+  - hash:
+      serializedVersion: 2
+      Hash: ff7f58b226cfe4de0dc241bd88d5a904
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: RecycledListItem
+  - hash:
+      serializedVersion: 2
+      Hash: b4c66413d46819a8679eaf04e6e290c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_Vector2Inspector
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_GizmoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_WindowManager
+  - hash:
+      serializedVersion: 2
+      Hash: e981157d7067f52077f565d200226a31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_BoolInspector
+  - hash:
+      serializedVersion: 2
+      Hash: c0a7a214f1c88d73c6a56096a49ff2f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraControl
+  - hash:
+      serializedVersion: 2
+      Hash: 74a4ac4d03f7a15901c609ecfe7bd196
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_Grid
+  - hash:
+      serializedVersion: 2
+      Hash: 4dba252ae000063a286ed04dd3640779
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_OpenSceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: db10c5a7310460b34602ca58009ddb99
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: PseudoSceneSourceTransform
+  - hash:
+      serializedVersion: 2
+      Hash: aa39a902b0599c15b43a630a123d8f1a
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: DraggedReferenceSourceUI
+  - hash:
+      serializedVersion: 2
+      Hash: 232c9c74a3d57143304bd844d4e62465
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadingBar
+  - hash:
+      serializedVersion: 2
+      Hash: 66e7fab9041c8eb343a9e0826aab09da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_FileDialog
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_SetSnapSize
+  - hash:
+      serializedVersion: 2
+      Hash: a0fde0910b4c357ffebfe0cb4c86edab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_ObjectEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6c079de59a13d6489f6a644b108bb4
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: NumberRangeField
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: c87aa42f9567c13b62f9fe572449c294
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: BoolField
+  - hash:
+      serializedVersion: 2
+      Hash: e4f94219e896b81fdcdb05e2618fbbe4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_ComponentInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 59e6e29ce9543855ee65528c084f463e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScaleDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: TooltipArea
+  - hash:
+      serializedVersion: 2
+      Hash: c54e5d238d05f0415928866fafbf602e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_LoadLevel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: WindowDragHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 649cc86a043c139558f843f9138b2d4e
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ArrayField
+  - hash:
+      serializedVersion: 2
+      Hash: 8cd1cbba27f3cb1717254f668e9e0d5a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: e4f94219e896b81fdcdb05e2618fbbe4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_GameObjectInspector
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: d99ed68a68a5884708fa655bd1b6f6b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_IntInspector
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 944f19e365801b9d4f4bb082dba36add
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ColorWheelControl
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 7af9a9915238d78780529817b2ea8ba4
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: BoundsField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OpenFile
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES
+    className: pb_ResourceManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GILES.Interface
+    className: pb_TransformEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 23e75ddaf750293061fd27b5a100f558
+    assemblyName: RuntimeInspector.Runtime.dll
+    namespaceName: RuntimeInspectorNamespace
+    className: ExposedMethodField
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/SampleScene-Calvin.unity
+  playerPath: E:/SIT/SIT-DIGIPEN/Semester8/CS325/CS325/CS325_UI/Build/CS325_UI.exe
